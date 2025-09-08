@@ -42,7 +42,6 @@ Data was cleaned and transformed due to inconsistencies in the original dataset:
 ## 👨‍💻 Author
 **Your Name**  
 - 📧 Email: marcosghc11@gmail.com
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/marcos-gael-hern%C3%A1ndez-cruz-80757536b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 LinkedIn: https://www.linkedin.com/in/marcos-gael-hern%C3%A1ndez-cruz-80757536b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-**⭐ If you find this project useful, please give it a star on GitHub!**
